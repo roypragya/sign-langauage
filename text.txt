@@ -12,5 +12,6 @@ train.py
 evaluate.py
 camera.py
 
+TRAIN DATASET
 train data larger than 25Mb
 link train data: https://drive.google.com/file/d/1nMLle9zDp0zZfr7CrsSfMDcTcVIuxprg/view?usp=sharing
