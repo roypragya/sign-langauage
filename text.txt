@@ -1,0 +1,16 @@
+PACKAGES
+pip install torch
+pip install torchvision
+pip install numpy
+pip install opnecv-python
+pip install onnx
+pip install onnxruntime
+
+ORDER
+dataset.py
+train.py
+evaluate.py
+camera.py
+
+train data larger than 25Mb
+link train data: https://drive.google.com/file/d/1nMLle9zDp0zZfr7CrsSfMDcTcVIuxprg/view?usp=sharing
